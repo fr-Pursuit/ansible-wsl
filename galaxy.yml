@@ -7,7 +7,6 @@ authors:
 description: This collection adds a new connection type, 'local_wsl', used to connect to the local Windows host from WSL.
 license:
 - GPL-3.0-or-later
-license_file: 'LICENSE.txt'
 tags: ["windows", "wsl", "local"]
 repository: https://github.com/fr-Pursuit/ansible-wsl
 issues: https://github.com/fr-Pursuit/ansible-wsl/issues
